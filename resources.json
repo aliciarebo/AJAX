@@ -1,0 +1,36 @@
+{
+	"PIZZA": {
+		"SIZES": [
+			{
+				"NAME": "Pequeña",
+				"PRICE": "5"
+			},
+			{
+				"NAME": "Mediana",
+				"PRICE": "10"
+			},
+			{
+				"NAME": "Grande",
+				"PRICE": "15"
+			}
+		],
+		"INGREDIENTS": [
+			{
+				"NAME": "Pollo",
+				"PRICE": "1"
+			},
+			{
+				"NAME": "Ternera",
+				"PRICE": "3"
+			},
+			{
+				"NAME": "Champiñones",
+				"PRICE": "2"
+			},
+			{
+				"NAME": "Queso",
+				"PRICE": "1"
+			}
+		]
+	}
+}
